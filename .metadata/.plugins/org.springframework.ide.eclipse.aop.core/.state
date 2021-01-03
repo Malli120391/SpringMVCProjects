@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ProductManager"/>
+<aop-project name="springboot-thymeleaf-crud-pagination-sorting-webapp-master"/>
+<aop-project name="springmvc5-hibernate5-jsp-mysql-demo"/>
+</aop-reference-model>

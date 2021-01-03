@@ -1,0 +1,5 @@
+package com.javacodes.springmvcjavabased.controller;
+
+public class CustomerController {
+
+}

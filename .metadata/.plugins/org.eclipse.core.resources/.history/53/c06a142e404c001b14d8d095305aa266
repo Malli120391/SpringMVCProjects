@@ -1,0 +1,5 @@
+package com.javacodes.springmvcjavabased.dao;
+
+public interface CustomerDAO {
+
+}
